@@ -3,7 +3,6 @@ This is an original implementation of STMLocator of (Bug Localization via Superv
 
 More information is able to added in the future.
 
-Same copy can be found in our group site.
 
 ## Usage
 ```
